@@ -45,11 +45,7 @@ body {
 }
 
 a {
-<<<<<<< HEAD
-  color: #1f1f1f;
-=======
   color: #666666;
->>>>>>> 13940de (commit 2: se reemplaza toda la barra)
   text-decoration: none !important;
   outline: none !important;
   -webkit-transition: all 0.3s ease-in-out;
@@ -276,11 +272,7 @@ button {
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show > .nav-link {
-<<<<<<< HEAD
-  color: #0d8edaf5;
-=======
   color: #010501;
->>>>>>> 13940de (commit 2: se reemplaza toda la barra)
 }
 
 .navbar-expand-md .navbar-nav {
@@ -814,11 +806,7 @@ ul.location_icon li a {
 
 .position_head .header {
   position: inherit;
-<<<<<<< HEAD
-  background: #03cafc;
-=======
   background: #f9fafa;
->>>>>>> 13940de (commit 2: se reemplaza toda la barra)
 }
 
 .position_head .glasses,
