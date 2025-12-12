@@ -43,10 +43,9 @@ git clone https://github.com/anyelohzapata597/proyecto-taller-1.git
 ```
 
 Luego, abre el archivo index.html en tu navegador.
+![image alt](https://github.com/anyelohzapata597/proyecto-taller-1/blob/be3d80190156a77b9a7e87847a5ed9e9a945cc76/yelops.jpg)
 
 ✍️ Autor
-
-![image alt](https://github.com/anyelohzapata597/proyecto-taller-1/blob/be3d80190156a77b9a7e87847a5ed9e9a945cc76/yelops.jpg)
 
 Desarrollado por Anyelo H. Zapata – Desarrollador Web Fullstack  
 GitHub: [@anyelohzapata597](https://github.com/anyelohzapata597)
