@@ -1,4 +1,4 @@
-![image alt](![image alt]( Aquí escriben el permalink de la imagen )
+![image alt](https://github.com/anyelohzapata597/proyecto-taller-1/blob/be3d80190156a77b9a7e87847a5ed9e9a945cc76/logo.jpg)
 
 
 Proyecto Taller 1
@@ -18,8 +18,7 @@ Se modifico una pagna web y se puso información de un negocio que se llama coct
 
 📸 Vista previa
 
-(https://github.com/user-attachments/assets/18021af6-2e33-46cb-b7c9-4b3344ad24d3)
-
+![image alt](https://github.com/anyelohzapata597/proyecto-taller-1/blob/be3d80190156a77b9a7e87847a5ed9e9a945cc76/pantallazo%202.JPG)
 
 📂 Estructura del proyecto
 
@@ -46,6 +45,8 @@ git clone https://github.com/anyelohzapata597/proyecto-taller-1.git
 Luego, abre el archivo index.html en tu navegador.
 
 ✍️ Autor
+
+![image alt](https://github.com/anyelohzapata597/proyecto-taller-1/blob/be3d80190156a77b9a7e87847a5ed9e9a945cc76/yelops.jpg)
 
 Desarrollado por Anyelo H. Zapata – Desarrollador Web Fullstack  
 GitHub: [@anyelohzapata597](https://github.com/anyelohzapata597)
