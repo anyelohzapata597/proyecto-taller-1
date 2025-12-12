@@ -1,3 +1,6 @@
+![image alt](![image alt]( Aquí escriben el permalink de la imagen )
+
+
 Proyecto Taller 1
 
 Este es un proyecto web desarrollado como parte de un taller práctico. Su objetivo es poner en práctica habilidades de desarrollo web integrando estructura, estilo y lógica de una forma clara, funcional y bien organizada.
