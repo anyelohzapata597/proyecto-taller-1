@@ -22,7 +22,6 @@ Se modifico una pagna web y se puso información de un negocio que se llama coct
 
 📂 Estructura del proyecto
 
-
 /proyecto-taller-1
 ├── index.html
 ├── style.css
@@ -40,10 +39,9 @@ Se modifico una pagna web y se puso información de un negocio que se llama coct
 
 bash
 git clone https://github.com/anyelohzapata597/proyecto-taller-1.git
-```
+![image alt](https://github.com/anyelohzapata597/proyecto-taller-1/blob/be3d80190156a77b9a7e87847a5ed9e9a945cc76/yelops.jpg)
 
 Luego, abre el archivo index.html en tu navegador.
-![image alt](https://github.com/anyelohzapata597/proyecto-taller-1/blob/be3d80190156a77b9a7e87847a5ed9e9a945cc76/yelops.jpg)
 
 ✍️ Autor
 
