@@ -1,0 +1,48 @@
+Proyecto Taller 1
+
+Este es un proyecto web desarrollado como parte de un taller práctico. Su objetivo es poner en práctica habilidades de desarrollo web integrando estructura, estilo y lógica de una forma clara, funcional y bien organizada.
+Se modifico una pagna web y se puso información de un negocio que se llama coctels ops, para que las personas, puedan interactuar, ver los pedidos disposibles y hacer pues pedidos
+
+🔗 *Demo en vivo:*  
+[anyelohzapata597.github.io/proyecto-taller-1](https://anyelohzapata597.github.io/proyecto-taller-1/)
+
+🚀 Tecnologías utilizadas
+
+- HTML5  
+- CSS 
+- JavaScript  
+- Git & GitHub (deploy con GitHub Pages)
+
+📸 Vista previa
+
+(https://github.com/user-attachments/assets/18021af6-2e33-46cb-b7c9-4b3344ad24d3)
+
+
+📂 Estructura del proyecto
+
+
+/proyecto-taller-1
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+✅ Funcionalidades principales
+
+- Diseño adaptable a diferentes dispositivos
+- Estructura clara y semántica
+- Interacciones básicas con JavaScript
+
+⚙️ Cómo clonar este repositorio
+
+bash
+git clone https://github.com/anyelohzapata597/proyecto-taller-1.git
+```
+
+Luego, abre el archivo index.html en tu navegador.
+
+✍️ Autor
+
+Desarrollado por Anyelo H. Zapata – Desarrollador Web Fullstack  
+GitHub: [@anyelohzapata597](https://github.com/anyelohzapata597)
